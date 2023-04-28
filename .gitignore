@@ -1,3 +1,16 @@
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
 # Gradle files
 .gradle/
 build/
@@ -33,3 +46,4 @@ google-services.json
 *.hprof
 
 /app/src/main/res/values/strings.xml
+
